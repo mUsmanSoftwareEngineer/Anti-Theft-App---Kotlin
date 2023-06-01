@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AntiTheft</string>
+
+    <string name="pocket_removal_detection">Pocket Removal</string>
+    <string name="charger_removal_detection">Charger Removal</string>\
+    <string name="motion_detection">Motion Detection</string>
+
+
+
+
+</resources>
